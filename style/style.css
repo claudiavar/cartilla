@@ -86,7 +86,7 @@
 
 .footer__link-icon-container {
   display: flex;
-  transition: all 0.5s;
+  transition: all 0.3s;
   max-width: 2rem;
 }
 
